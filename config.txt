@@ -1,0 +1,5 @@
+{
+	"ip":"JavaBed_rockers.aternos.me",
+	"port": " 55186",
+	"name": "javabedrock"
+}
